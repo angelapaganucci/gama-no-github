@@ -1,0 +1,2 @@
+<h1>DESENVOLVA-SE NAS TECNOLOGIAS E LINGUAGENS QUE VÃO ACELERAR SUA CARREIRA</h1>
+<p>O Hiring Coders é um programa de capacitação gratuito e sem pré-requisitos, feito para todos que querem uma carreira à prova do futuro.</p>
